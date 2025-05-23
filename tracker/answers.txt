@@ -1,0 +1,13 @@
+1. How do you create a new user with api key based access to all resources in AWS?
+Ans. s-1 Go to IAM -> Service Accounts
+     s-2 Create new service Accounts
+     s-3 Grant relavent roles to it
+     s-4 Generate key value pairs
+     s-4 Involve the key values in projects
+
+2.How to resolve a merge conflict in git merge?
+Ans. s-1 Try merging branches using git merge new_branch
+     s-2 While merging conflict will happen then manually resolve the conflicts by checking the incoming difference and current difference
+     s-3 Add the updated file using git add <filename>
+     s-4 Commit the updated changes using git commit -m "<message>"
+     
